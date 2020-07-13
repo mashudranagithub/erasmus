@@ -33,21 +33,28 @@ $(document).ready(function ($) {
         if ($(window).width() > 767) {
             
             if (scroll_mouse > hdr_menu_offset) {
+                $('#About').css({
+                    "margin-top": "20vh",
+                });
                 $('#Home-header').css({
                     "position": "fixed",
                     "top": "0",
                     "left": "0",
                     "height": "auto",
+                    "max-height": "20vh",
                     "padding": "15px 0px",
-                    "background": "rgba(14,65,148, 1)",
+                    "background": "rgba(255,255,255, 1)",
                     "z-index": "999999",
                 });
             } else {
                 $('#Home-header').css({
-                    "position": "absolute",
-                    "height": "25vh",
-                    "background": "rgba(0,0,0,0)",
+                    "position": "static",
+                    "height": "20vh",
+                    "background": "rgba(255,255,255, 1)",
                     "width": "100vw !important",
+                });
+                $('#About').css({
+                    "margin-top": "0vh",
                 });
             };
             

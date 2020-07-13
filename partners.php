@@ -17,7 +17,7 @@
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<h3>Implementing Partners</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam tempora mollitia adipisci rerum quod, dolore enim accusamus voluptatibus. Iure, nisi!</p>
+							<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam tempora mollitia adipisci rerum quod, dolore enim accusamus voluptatibus. Iure, nisi!</p> -->
 						</div>
 					</div>
 				</div>
@@ -35,11 +35,6 @@
 										<img src="assets/images/partners/full-logo.png" alt="Partner Logo">
 									</a>
 								</div><!-- Single Partner Logo End -->
-								<!-- Single Partner Short Text Start -->
-								<div class="single-partner-short-text">
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quibusdam magni eius quo corporis illo deleniti vero dolor, molestiae quisquam!</p>
-									<a href="http://bracjpgsph.org/" class="btn btn-details" target="_blank">Show Details</a>
-								</div><!-- Single Partner Short Text End -->
 							</div><!-- Single Partner with Text End -->
 						</div>
 						<div class="col-md-4">
@@ -51,11 +46,6 @@
 										<img src="assets/images/partners/auw-logo-with-clear-background logo.png" alt="Partner Logo">
 									</a>
 								</div><!-- Single Partner Logo End -->
-								<!-- Single Partner Short Text Start -->
-								<div class="single-partner-short-text">
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quibusdam magni eius quo corporis illo deleniti vero dolor, molestiae quisquam!</p>
-									<a href="https://asian-university.org/" target="_blank" class="btn btn-details">Show Details</a>
-								</div><!-- Single Partner Short Text End -->
 							</div><!-- Single Partner with Text End -->
 						</div>
 						<div class="col-md-4">
@@ -67,11 +57,6 @@
 										<img src="assets/images/partners/icccad&Iub.png" alt="Partner Logo">
 									</a>
 								</div><!-- Single Partner Logo End -->
-								<!-- Single Partner Short Text Start -->
-								<div class="single-partner-short-text">
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quibusdam magni eius quo corporis illo deleniti vero dolor, molestiae quisquam!</p>
-									<a href="http://www.icccad.net/about-the-centre/" target="_blank" class="btn btn-details">Show Details</a>
-								</div><!-- Single Partner Short Text End -->
 							</div><!-- Single Partner with Text End -->
 						</div>
 					</div>
@@ -87,7 +72,7 @@
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<h3>Technical Partners</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam tempora mollitia adipisci rerum quod, dolore enim accusamus voluptatibus. Iure, nisi!</p>
+							<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam tempora mollitia adipisci rerum quod, dolore enim accusamus voluptatibus. Iure, nisi!</p> -->
 						</div>
 					</div>
 				</div>
@@ -105,11 +90,6 @@
 										<img src="assets/images/partners/um.png" alt="Partner Logo">
 									</a>
 								</div><!-- Single Partner Logo End -->
-								<!-- Single Partner Short Text Start -->
-								<div class="single-partner-short-text">
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quibusdam magni eius quo corporis illo deleniti vero dolor, molestiae quisquam!</p>
-									<a href="https://www.maastrichtuniversity.nl/" class="btn btn-details" target="_blank">Show Details</a>
-								</div><!-- Single Partner Short Text End -->
 							</div><!-- Single Partner with Text End -->
 						</div>
 						<div class="col-md-4">
@@ -121,11 +101,6 @@
 										<img src="assets/images/partners/ids-edited.png" alt="Partner Logo">
 									</a>
 								</div><!-- Single Partner Logo End -->
-								<!-- Single Partner Short Text Start -->
-								<div class="single-partner-short-text">
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quibusdam magni eius quo corporis illo deleniti vero dolor, molestiae quisquam!</p>
-									<a href="https://www.ids.ac.uk/" target="_blank" class="btn btn-details">Show Details</a>
-								</div><!-- Single Partner Short Text End -->
 							</div><!-- Single Partner with Text End -->
 						</div>
 					</div>
@@ -137,4 +112,4 @@
 
 <!-- Footer Start Here -->
 <?php include('partials/footer.php'); ?>
-<!-- Footer End Here -->
+<!-- Footer End Here

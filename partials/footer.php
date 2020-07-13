@@ -2,36 +2,22 @@
 				<!-- Footer top start -->
 				<div class="footer-top">
 					<div class="container">
-						<div class="row">
-							<div class="col-md-4">
+						<div class="row justify-content-between">
+							<div class="col-md-4 d-flex align-items-center">
 								<div class="footer-about">
 									<a href="javascript:void(0)">
-										<img src="assets/images/logo/2.png" alt="Project Logo">
+										<img src="assets/images/logo/erms-logo.png" alt="Project Logo">
 									</a>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus aliquid dicta amet consequatur praesentium inventore autem est, in tempore magnam eius nemo aliquam aut animi ullam fugit cupiditate adipisci qui!</p>
+									<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus aliquid dicta amet consequatur praesentium inventore autem est, in tempore magnam eius nemo aliquam aut animi ullam fugit cupiditate adipisci qui!</p> -->
 								</div>
 							</div>
-							<div class="col-md-4 d-flex justify-content-end">
+							<div class="col-md-5 d-flex justify-content-end">
 								<div class="footer-links">
 									<h3>Project News</h3>
 									<ul>
-										<li><a href="javascript:void(0)">Lorem ipsum dolor sit amet.</a></li>
-										<li><a href="javascript:void(0)">Lorem ipsum dolor sit amet.</a></li>
-										<li><a href="javascript:void(0)">Lorem ipsum dolor sit amet.</a></li>
-										<li><a href="javascript:void(0)">Lorem ipsum dolor sit amet.</a></li>
-										<li><a href="javascript:void(0)">Lorem ipsum dolor sit amet.</a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="col-md-4 d-flex justify-content-end">
-								<div class="footer-links">
-									<h3>Quick Links</h3>
-									<ul>
-										<li><a href="javascript:void(0)">Quick link one</a></li>
-										<li><a href="javascript:void(0)">Quick link Two</a></li>
-										<li><a href="javascript:void(0)">Quick link Three</a></li>
-										<li><a href="javascript:void(0)">Quick link Four</a></li>
-										<li><a href="javascript:void(0)">Quick link Five</a></li>
+										<li><a href="https://www.thedailystar.net/city/news/eu-awards-erasmus-grant-three-univs-1692913" target="_blank">EU awards Erasmus grant to three univs</a></li>
+										<li><a href="https://www.dhakatribune.com/magazine/weekend-tribune/2019/01/25/brac-jpg-school-of-public-health-icccad-iub-and-auw-jointly-awarded-us-1-million-eu-grant-for-capacity-building-in-higher-education?fbclid=IwAR07ZyBReu-HwOw8wibWhvKgeD4mIGek37phdkhk2BJdhABTYe3AaJ-o1FU" target="_blank">Three Private Universities Jointly Awarded EU Grant</a></li>
+										<li><a href="https://www.bracu.ac.bd/news/eu-funded-trans4m-ph-project-launched" target="_blank">EU funded TRANS4M-PH project launched</a></li>
 									</ul>
 								</div>
 							</div>
@@ -40,7 +26,9 @@
 				</div><!-- Footer top end -->
 				<!-- Footer Bottom start -->
 				<div class="footer-bottom text-center">
-					<p>&copy; 2020, All Rights Reserved <a href="javascript:void(0);">BRACJPGSPH</a></p>
+					<p><!-- &copy; 2020, All Rights Reserved <a href="http://bracjpgsph.org/" target="_blank">BRACJPGSPH</a> -->
+						<a href="#"></a>
+					</p>
 				</div><!-- Footer Bottom end -->
 			</footer><!-- Footer End -->
 			

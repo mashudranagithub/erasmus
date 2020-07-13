@@ -9,13 +9,14 @@
 <!-- Home Header Start Here -->
 <?php include('partials/home_header.php'); ?>
 <!-- Home Header End Here -->
-
-				<!-- Block-menus Start -->
+			<!-- Homepage Viewport Start -->
+			<!-- <section id="Viewport">
+				
 				<div id="Block-menus" class="d-flex align-items-center">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-4 d-flex justify-content-center align-items-center">
-								<!-- Single block menu start -->
+								
 								<div class="single-block-menu text-center">
 									<a href="background.php">
 										<div class="menu-icon">
@@ -23,10 +24,10 @@
 										</div>
 										<h3>Project</h3>
 									</a>
-								</div><!-- Single block menu end -->
+								</div>
 							</div>
 							<div class="col-md-4 d-flex justify-content-center align-items-center">
-								<!-- Single block menu start -->
+								
 								<div class="single-block-menu text-center">
 									<a href="partners.php">
 										<div class="menu-icon">
@@ -34,21 +35,21 @@
 										</div>
 										<h3>Partners</h3>
 									</a>
-								</div><!-- Single block menu end -->
+								</div>
 							</div>
 							<div class="col-md-4 d-flex justify-content-center align-items-center">
-								<!-- Single block menu start -->
+								
 								<div class="single-block-menu text-center">
-									<a href="javascript:void(0);">
+									<a href="stering-committee.php">
 										<div class="menu-icon">
 											<i class="fas fa-users"></i>
 										</div>
 										<h3>Governance</h3>
 									</a>
-								</div><!-- Single block menu end -->
+								</div>
 							</div>
 							<div class="col-md-4 d-flex justify-content-center align-items-center">
-								<!-- Single block menu start -->
+								
 								<div class="single-block-menu text-center">
 									<a href="events.php">
 										<div class="menu-icon">
@@ -56,34 +57,34 @@
 										</div>
 										<h3>Events</h3>
 									</a>
-								</div><!-- Single block menu end -->
+								</div>
 							</div>
 							<div class="col-md-4 d-flex justify-content-center align-items-center">
-								<!-- Single block menu start -->
+								
 								<div class="single-block-menu text-center">
-									<a href="javascript:void(0);">
+									<a href="blank-page.php">
 										<div class="menu-icon">
 											<i class="fas fa-seedling"></i>
 										</div>
 										<h3>Outcomes</h3>
 									</a>
-								</div><!-- Single block menu end -->
+								</div>
 							</div>
 							<div class="col-md-4 d-flex justify-content-center align-items-center">
-								<!-- Single block menu start -->
+								
 								<div class="single-block-menu text-center">
-									<a href="javascript:void(0);">
+									<a href="blank-page.php">
 										<div class="menu-icon">
 											<i class="fas fa-chalkboard-teacher"></i>
 										</div>
 										<h3>Online Hub</h3>
 									</a>
-								</div><!-- Single block menu end -->
+								</div>
 							</div>
 						</div>
 					</div>
-				</div><!-- Block-menus End -->
-				<!-- Slider Start -->
+				</div>
+				
 				<div class="swiper-container viewport-slide">
 					<div class="swiper-wrapper">
 						<div class="swiper-slide" data-swiper-autoplay="8000">
@@ -96,21 +97,29 @@
 							<img src="assets/images/slider/slide-3.jpg" alt="Viewport Slider Image">
 						</div>
 					</div>
-				</div><!-- Slider End -->
-			</section><!-- Homepage Viewport End -->
+				</div>
+			</section> -->
 
 			<section id="About">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-7">
+						<div class="text-center col-md-12 mb-4">
 							<h5>About</h5>
-							<h3>Transformative Competency-Based Public Health Education for Professional Employability in Bangladesh’s Health Sector (TRANS4M-PH)</h3>
-							<p>To strategically address the high-skilled workforce shortages in the Public Health Sector of Bangladesh. A total of 12 courses from BRAC JPGSPH, IUB and AUW will be transformed into competency-based curricula and 36 faculties will be trained to facilitate competency-based public health courses that will enhance the professional employability of public health graduates in the health sector of Bangladesh.</p>
-							<p>BRAC JPGSPH, IUB, AUW in Bangladesh and capacity building technical partners from European Maastricht University (UM), Netherlands and Institute of Development Studies (IDS), University of Sussex, United Kingdom.</p>
-							<!-- <p>Donor: European Union (EU)</p> -->
+							<h2>Transformative Competency-Based Public Health Education for Professional Employability in Bangladesh’s Health Sector (TRANS4M-PH)</h2>
+						</div>
+
+						<div class="col-md-12">
+							<h3 class="mb-4">ABOUT THE Trans4m-PH PROJECT</h3>
+						</div>
+						<div class="col-md-7">
+							<p>The "Transformative Competency-Based Public Health Education for Professional Employability in Bangladesh’s Health Sector” (Trans4m-PH) project is a 3-year (2019-22) Erasmus+ project funded by the EU. The aim of the project is to design and offer indigenous competency based public health curricula which sustain professional employability in Bangladesh’s health sector.</p>
+							<p>BRAC James P Grant School of Public Health, BRAC University (BRAC JPGSPH); the International Centre for Climate Change & Development (ICCCAD), Independent University of Bangladesh (IUB); and Asian University for Women (AUW) have jointly been awarded the prestigious European Union 2018 ERASMUS+ ‘Capacity Building in Higher Education’ Grant to undertake this project. Led by BRAC JPGSPH, this pioneering tripartite institutional partnership will collaboratively design and implement the TRANS4M-PH project. The Project’s European capacity-building technical partners are Maastricht University (UM), Netherlands and Institute of Development Studies (IDS), University of Sussex, United Kingdom.</p>
 						</div>
 						<div class="col-md-5">
 							<img src="assets/images/about/project-launcing.jpg" alt="Project launcing image">
+						</div>
+						<div class="col-md-12">
+							<p>A total of 12 courses from BRAC JPGSPH, IUB and AUW will be transformed into competency-based curricula and their related course faculty will be trained to facilitate competency-based public health courses that will enhance the professional employability of public health graduates in the health sector of Bangladesh.</p>
 						</div>
 					</div>
 				</div>
@@ -175,7 +184,7 @@
 			</section>
 
 			<!-- Testimonial Video Section Start Here -->
-			<section id="Testimonial">
+			<!-- <section id="Testimonial">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center">
@@ -192,7 +201,6 @@
 											<div class="col-md-6">
 												<div class="video-box">
 													<a href="https://www.youtube.com/watch?v=xec80sMJF5Q" class="video-link">
-													<!-- Ei khane image dynamic korte hoile youtube link theke video id ta niye image er source ta create korte hobe -->
 													<img src="http://i3.ytimg.com/vi/xec80sMJF5Q/maxresdefault.jpg" alt="Video Thumbnail Image">
 													<i class="far fa-play-circle"></i>
 													</a>
@@ -211,7 +219,6 @@
 											<div class="col-md-6">
 												<div class="video-box">
 													<a href="https://www.youtube.com/watch?v=MGTY7jtA9aQ" class="video-link">
-													<!-- Ei khane image dynamic korte hoile youtube link theke video id ta niye image er source ta create korte hobe -->
 													<img src="http://i3.ytimg.com/vi/MGTY7jtA9aQ/maxresdefault.jpg" alt="Video Thumbnail Image">
 													<i class="far fa-play-circle"></i>
 													</a>
@@ -230,7 +237,6 @@
 											<div class="col-md-6">
 												<div class="video-box">
 													<a href="https://www.youtube.com/watch?v=RjmQqun6lxk" class="video-link">
-													<!-- Ei khane image dynamic korte hoile youtube link theke video id ta niye image er source ta create korte hobe -->
 													<img src="http://i3.ytimg.com/vi/RjmQqun6lxk/maxresdefault.jpg" alt="Video Thumbnail Image">
 													<i class="far fa-play-circle"></i>
 													</a>
@@ -247,29 +253,20 @@
 									<span class="swiper-button-prev"></span>
 									<span class="swiper-button-next"></span>
 								</div>
-							</div><!-- Slider End -->
+							</div>
 							
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<!-- Testimonial Video Section End Here -->
 
 			<!-- Funded By -->
 			<section id="Funded_by" class="d-flex justify-content-center align-items-center">
 				<div class="container">
 					<div class="row d-flex justify-content-center align-items-center">
-						<div class="col-md-6">
-							<div class="fund_details">
-								<h5>funded by</h5>
-								<h3>European Union</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae culpa repellendus aspernatur aliquid reprehenderit perspiciatis libero enim ullam harum amet accusamus deserunt, omnis id rerum architecto natus iste ratione illo aut. Adipisci nam sed accusantium quaerat aperiam itaque cum eius dolorum perferendis in voluptatem soluta molestias saepe corrupti autem consectetur debitis laudantium ut animi voluptatum, numquam quis! Ab, natus, tempore.</p>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="funded_image">
-								<img src="assets/images/partners/eu_logo.png" alt="Europian Eunion Logo">
-							</div>
+						<div class="col-md-12">
+							<img src="assets/images/logo/logosbeneficaireserasmusright_withthesupportof.jpg" alt="Funded By">
 						</div>
 					</div>
 				</div>

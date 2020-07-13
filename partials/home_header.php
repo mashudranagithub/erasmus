@@ -7,7 +7,7 @@
 				<div class="logo">
 					<a href="index.php">
 						<!-- <span>TRANS4M-PH</span> -->
-						<img src="assets/images/logo/erms-white-logo.png" alt="Logo Image">
+						<img src="assets/images/logo/erms-logo.png" alt="Logo Image">
 					</a>
 				</div><!-- Logo End -->
 			</div>
