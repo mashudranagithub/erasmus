@@ -17,6 +17,28 @@ $(document).ready(function ($) {
         },
     });
     //Home page viewport background slider codes End
+
+    // Project background slider codes Start
+    var myAboutSwiper = new Swiper('.swiper-con.about-slider', {
+        // Optional parameters
+        direction: 'horizontal',
+        // direction: 'vertical',
+        loop: true,
+        
+        // If we need pagination
+        pagination: {
+            el: '.swiper-pagination',
+        },
+
+        // Navigation arrows
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        autoplay: false,
+        speed: 1500,
+    });
+    // Project background slider codes End
     
     
     

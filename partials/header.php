@@ -33,28 +33,22 @@
 										<a class="nav-link" href="partners.php">Partners</a>
 									</li>
 
-									<!-- <li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="stering-committee.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-										Governance</a>
-										<ul class="dropdown-menu">
-											<li><a class="dropdown-item" href="stering-committee.php">Steering Committee</a></li>
-											<li><a class="dropdown-item" href="quality-assurance.php">Quality Assurance</a></li>
-											<li><a class="dropdown-item" href="#">Monitoring & Evaluation</a></li>
-										</ul>
+									<li class="nav-item">
+										<a class="nav-link" href="blank-page.php">Events</a>
 									</li>
 
 									<li class="nav-item">
-										<a class="nav-link" href="events.php">Events</a>
+										<a class="nav-link" href="blank-page.php">Activities</a>
 									</li>
-									<li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="blank-page.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outcomes</a>
-										<ul class="dropdown-menu">
-											<li><a class="dropdown-item" href="blank-page.php">Results</a></li>
-										</ul>
-									</li>
+
 									<li class="nav-item">
-										<a class="nav-link" href="blank-page.php">Online Hub</a>
-									</li> -->
+										<a class="nav-link" href="blank-page.php">Governance</a>
+									</li>
+
+									<li class="nav-item">
+										<a class="nav-link" href="blank-page.php">E-Learning Hub</a>
+									</li>
+
 								</ul>
 							</div>
 						</nav><!-- Main Navigation Menu End Here -->

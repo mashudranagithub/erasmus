@@ -306,7 +306,7 @@ a.mobile-menu-close.side-menu-hide-btn {
 /*** Homepage viewport-slide Start ***/
 
 /*Swiper CSS*/
-.swiper-container {
+/*.swiper-container {
     width: 100vw;
     height: 100vh;
 }
@@ -315,7 +315,7 @@ a.mobile-menu-close.side-menu-hide-btn {
     width: 100vw;
     height: auto;
     min-height: 100vh;
-}
+}*/
 /*** Homepage viewport-slide End ***/
 
 /*****************  Homepage Viewport End  ******************/
@@ -351,6 +351,32 @@ section#About p {
     margin-bottom: 15px;
 }
 
+.swiper-con.about-slider {
+    overflow: hidden;
+}
+
+.swiper-con.about-slider .swiper-button-prev,
+.swiper-con.about-slider .swiper-button-next {
+    color: #18728d;
+}
+
+.swiper-con.about-slider .swiper-button-prev {
+    left: 20px;
+}
+
+.swiper-con.about-slider .swiper-button-next {
+    right: 20px;
+}
+
+.swiper-con.about-slider .swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+}
+
+.swiper-con.about-slider .swiper-pagination-bullet-active {
+    background: #18728d;
+}
+
 /*About section end here*/
 
 
@@ -367,7 +393,8 @@ section#Funded_by {
 }
 
 section#Funded_by img {
-    margin-left: -40px;
+    margin-left: -20px;
+    max-width: 50%;
 }
 
 .funded_image img {
@@ -476,9 +503,18 @@ footer#Footer {
 }
 
 .footer-about a img {
-    padding-right: 40px;
     margin-bottom: 15px;
     margin-left: -3px;
+}
+
+.footer-about a.erasmus-footer-logo img {
+    padding-right: 40px;
+    max-width: 350px;
+}
+
+.footer-about a.eu-logo img {
+    max-width: 555px;
+    margin-left: -20px;
 }
 
 .footer-links ul li a {
@@ -704,8 +740,12 @@ section#Partners-list {
     padding:5px 15px;
 }
 
-.single-partner-logo a img {
-    max-height: 80px;
+.implementing_partner .single-partner-logo a img {
+    max-height: 115px;
+}
+
+.tech_partner .single-partner-logo a img {
+    max-height: 90px;
 }
 
 .single-partner-logo {
@@ -753,13 +793,13 @@ section#Testimonial h3 {
     color: #0c4194;
 }
 
-.swiper-button-next {
+/*.swiper-button-next {
     right: -50px;
 }
 
 .swiper-button-prev {
     left: -50px;
-}
+}*/
 
 .video-box {
     position: relative;

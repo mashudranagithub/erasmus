@@ -3,12 +3,12 @@
 <!-- Head End Here -->
 
 <!-- Homepage Side Menu Start Here -->
-<?php include('partials/homepage_side_menu.php'); ?>
+<?php //include('partials/homepage_side_menu.php'); ?>
 <!-- Homepage Side Menu End Here -->
 
-<!-- Home Header Start Here -->
-<?php include('partials/home_header.php'); ?>
-<!-- Home Header End Here -->
+<!-- Header Start Here -->
+<?php include('partials/header.php'); ?>
+<!-- Header End Here -->
 			<!-- Homepage Viewport Start -->
 			<!-- <section id="Viewport">
 				
@@ -112,14 +112,42 @@
 							<h3 class="mb-4">ABOUT THE Trans4m-PH PROJECT</h3>
 						</div>
 						<div class="col-md-7">
-							<p>The "Transformative Competency-Based Public Health Education for Professional Employability in Bangladesh’s Health Sector” (Trans4m-PH) project is a 3-year (2019-22) Erasmus+ project funded by the EU. The aim of the project is to design and offer indigenous competency based public health curricula which sustain professional employability in Bangladesh’s health sector.</p>
-							<p>BRAC James P Grant School of Public Health, BRAC University (BRAC JPGSPH); the International Centre for Climate Change & Development (ICCCAD), Independent University of Bangladesh (IUB); and Asian University for Women (AUW) have jointly been awarded the prestigious European Union 2018 ERASMUS+ ‘Capacity Building in Higher Education’ Grant to undertake this project. Led by BRAC JPGSPH, this pioneering tripartite institutional partnership will collaboratively design and implement the TRANS4M-PH project. The Project’s European capacity-building technical partners are Maastricht University (UM), Netherlands and Institute of Development Studies (IDS), University of Sussex, United Kingdom.</p>
+							<p>BRAC James P Grant School of Public Health, BRAC University (BRAC JPGSPH); the International Centre for Climate Change & Development (ICCCAD), Independent University of Bangladesh (IUB); and Asian University for Women (AUW) are working to collaboratively design and implement the ‘Transformative Competency-Based Public Health Education for Professional Employability in Bangladesh’s Health Sector (TRANS4M-PH)’ project, from 2019-2021.</p>
+
+							<p>This pioneering tripartite institutional partnership, led by BRAC JPGSPH, aims to transform 12 courses from BRAC JPGSPH, IUB and AUW will be transformed into competency-based curricula and 36 faculty will be trained to facilitate competency-based public health courses that will enhance the professional employability of public health graduates in the health sector of Bangladesh. Through this project, we are creating a core group of indigenous faculty trained in best-practice facilitation while creatively using appropriate contextualized pedagogy. This, in turn, will substantially improve students’ practical public health skillsets towards greater employability.</p>
+
 						</div>
 						<div class="col-md-5">
-							<img src="assets/images/about/project-launcing.jpg" alt="Project launcing image">
+							<div class="swiper-con about-slider">
+								<div class="swiper-wrapper">
+									<div class="swiper-slide">
+										<img src="assets/images/about/ERASMUS1.jpg" alt="About TRANS4M-PH image">
+									</div>
+									<div class="swiper-slide">
+										<img src="assets/images/about/DSCN6025.JPG" alt="About TRANS4M-PH image">
+									</div>
+									<div class="swiper-slide">
+										<img src="assets/images/about/DSC_6855.JPG" alt="About TRANS4M-PH image">
+									</div>
+									<div class="swiper-slide">
+										<img src="assets/images/about/IMG-7367.JPG" alt="About TRANS4M-PH image">
+									</div>
+								</div>
+								<!-- If we need pagination -->
+								<div class="swiper-pagination"></div>
+								<!-- If we need navigation buttons -->
+							    <div class="swiper-button-prev"></div>
+							    <div class="swiper-button-next"></div>
+							</div>
 						</div>
 						<div class="col-md-12">
-							<p>A total of 12 courses from BRAC JPGSPH, IUB and AUW will be transformed into competency-based curricula and their related course faculty will be trained to facilitate competency-based public health courses that will enhance the professional employability of public health graduates in the health sector of Bangladesh.</p>
+
+							<p>The Trans4m-PH model allows  BRAC JPGSPH, IUB and AUW to create a holistic learning ecosystem which standardizes, disseminates and organically expands the competency-based learning models benefitting each of these institutions.</p>
+
+							<p>The University of Maastricht (UM), Netherlands and Institute of Development Studies (IDS), University of Sussex, UK will collaborate as the project’s Technical Partners. UM has a global health network and designs competency-based curriculum, with a student centred and problem-based learning approach. IDS is a leading institution in developing innovative Teaching and Learning strategies.</p>
+
+							<p>The Trans4m-PH project partners have been jointly awarded the prestigious European Union 2018 ERASMUS+ ‘Capacity Building in Higher Education’ Grant in December 2018.</p>
+							
 						</div>
 					</div>
 				</div>
@@ -262,7 +290,7 @@
 			<!-- Testimonial Video Section End Here -->
 
 			<!-- Funded By -->
-			<section id="Funded_by" class="d-flex justify-content-center align-items-center">
+			<!-- <section id="Funded_by" class="d-flex justify-content-center align-items-center">
 				<div class="container">
 					<div class="row d-flex justify-content-center align-items-center">
 						<div class="col-md-12">
@@ -270,7 +298,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 <!-- Footer Start Here -->
 <?php include('partials/footer.php'); ?>

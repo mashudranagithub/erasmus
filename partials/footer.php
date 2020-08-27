@@ -3,15 +3,17 @@
 				<div class="footer-top">
 					<div class="container">
 						<div class="row justify-content-between">
-							<div class="col-md-4 d-flex align-items-center">
+							<div class="col-md-6 d-flex align-items-center">
 								<div class="footer-about">
-									<a href="javascript:void(0)">
+									<a class="erasmus-footer-logo" href="javascript:void(0)">
 										<img src="assets/images/logo/erms-logo.png" alt="Project Logo">
 									</a>
-									<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus aliquid dicta amet consequatur praesentium inventore autem est, in tempore magnam eius nemo aliquam aut animi ullam fugit cupiditate adipisci qui!</p> -->
+									<a class="eu-logo" href="javascript:void(0)">
+										<img src="assets/images/logo/logosbeneficaireserasmusright_withthesupportof.jpg" alt="Funded By">
+									</a>
 								</div>
 							</div>
-							<div class="col-md-5 d-flex justify-content-end">
+							<div class="col-md-5 d-flex align-items-center justify-content-end">
 								<div class="footer-links">
 									<h3>Project News</h3>
 									<ul>
