@@ -415,10 +415,28 @@ section#Funded_by img {
 /*****************  Funded By End  ******************/
 
 
+/*****************  Outputs Start  ******************/
+
+section#Output-outcomes {
+    background: #f1f1f1;
+    padding:80px 0; 
+}
+
+section#Output-outcomes h3 {
+    margin-bottom: 25px;
+}
+
+.single-output img {
+    padding: 40px;
+}
+
+/*****************  Outputs End  ******************/
+
+
 /*****************  Partners_logo Start  ******************/
 
 section#Partners_logo {
-    background: #f1f1f1;
+    background: #ffffff;
     padding:80px 0; 
 }
 
@@ -884,6 +902,15 @@ section#page-content p {
 section#page-content h4 {
     margin: 50px 0 20px;
     color: #7b7b7b;
+    font-size: 1.4rem;
+    display: flex;
+    line-height: 2rem;
+    align-items: center;
+}
+
+section#page-content h4 img {
+    max-width: 50px;
+    margin-right: 15px;
 }
 
 section#page-content ol {
@@ -892,31 +919,11 @@ section#page-content ol {
 }
 
 section#page-content ol li {
-    margin: 15px 0;
-    position: relative;
-    list-style: none;
-    padding-left: 35px;
+    margin: 15px 30px;
 }
 
-section#page-content ol li:before {
-    position: absolute;
-    content: "\f00c";
-    font-family: "Font Awesome 5 Free";
-    top: 0;
-    left: 0;
-    width: 25px;
-    height: 25px;
-    background-color: #ffffff;
-    box-shadow: 0 0 3px 2px rgba(51, 181, 247, 0.25);
-    font-size: 12px;
-    font-weight: 900;
-    text-align: center;
-    line-height: 25px;
-    color: #db6b23;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+.components-image {
+    margin-right: 50px;
 }
 
 /* Background Page End Here */

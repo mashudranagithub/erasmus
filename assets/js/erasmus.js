@@ -1,24 +1,38 @@
 $(document).ready(function ($) {
     
     //Home page viewport background slider codes Start
-    var mySwiper = new Swiper('.swiper-container.viewport-slide', {
-        // Optional parameters
-        // direction: 'horizontal',
-        direction: 'vertical',
-        loop: true,
-        autoplay: true,
-        speed: 1500,
-        effect: 'cube',
-        cubeEffect: {
-            shadow: true,
-            slideShadows: true,
-            shadowOffset: 20,
-            shadowScale: 0.94,
-        },
-    });
+    // var mySwiper = new Swiper('.swiper-container.viewport-slide', {
+    //     direction: 'vertical',
+    //     loop: true,
+    //     autoplay: true,
+    //     speed: 1500,
+    //     effect: 'cube',
+    //     cubeEffect: {
+    //         shadow: true,
+    //         slideShadows: true,
+    //         shadowOffset: 20,
+    //         shadowScale: 0.94,
+    //     },
+    // });
     //Home page viewport background slider codes End
 
     // Project background slider codes Start
+    var myProjectSwiper = new Swiper('.swiper-container.project-slide', {
+        // Optional parameters
+        direction: 'horizontal',
+        loop: true,
+        autoplay: true,
+        speed: 1500,
+        effect: 'fade',
+
+        // Navigation arrows
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+    });
+
+
     var myAboutSwiper = new Swiper('.swiper-con.about-slider', {
         // Optional parameters
         direction: 'horizontal',

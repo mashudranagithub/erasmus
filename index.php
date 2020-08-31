@@ -153,6 +153,48 @@
 				</div>
 			</section>
 
+			<section id="Output-outcomes">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<h3>Outputs and Outcomes</h3>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4">
+							<div class="single-output">
+								<img src="assets/images/about/discoverables/deliverable-1.png" alt="Outputs Image">
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-output">
+								<img src="assets/images/about/discoverables/deliverable-2.png" alt="Outputs Image">
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-output">
+								<img src="assets/images/about/discoverables/deliverable-3.png" alt="Outputs Image">
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-output">
+								<img src="assets/images/about/discoverables/deliverable-4.png" alt="Outputs Image">
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-output">
+								<img src="assets/images/about/discoverables/deliverable-5.png" alt="Outputs Image">
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-output">
+								<img src="assets/images/about/discoverables/deliverable-6.png" alt="Outputs Image">
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
 			<section id="Partners_logo" class="d-flex justify-content-center align-items-center">
 				<div class="container">
 					<div class="implementing_partner mb-4">
