@@ -45,8 +45,13 @@
 										<a class="nav-link" href="blank-page.php">Governance</a>
 									</li>
 
-									<li class="nav-item">
-										<a class="nav-link" href="blank-page.php">E-Learning Hub</a>
+									<li class="nav-item dropdown">
+										<a class="nav-link" href="javascript:void();">E-Learning Hub</a>
+										<ul class="dropdown-menu">
+											<li><a href="documents.php">First Dropdown Menu</a></li>
+											<li><a href="#">Second Dropdown Menu</a></li>
+											<li><a href="#">Third Dropdown Menu</a></li>
+										</ul>
 									</li>
 
 								</ul>
