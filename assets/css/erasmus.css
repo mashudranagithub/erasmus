@@ -1256,13 +1256,17 @@ section#Partners-list {
 }
 
 .header-main nav.navbar {
-    padding: 12px;
+    padding: 55px 10px;
     display: unset;
     z-index: 99;
 }
 
+header#header a {
+    color: #ffffff;
+}
+
 div#navbarSupportedContent {
-    background: #db6b23;
+    background: rgb(0 0 0 / 0.7);
     padding: 10px 30px 0 15px;
     min-width: 200px;
     margin-right: -30px;
@@ -1292,7 +1296,42 @@ ul.dropdown-menu.nested{
 
 
 
+.footer-about a.eu-logo img {
+    max-width: 100%;
+    margin: 0;
 }
+
+section#About h2 {
+    text-transform: capitalize;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    margin-bottom: 0px;
+}
+
+.swiper-con.about-slider {
+    margin-bottom: 50px;
+}
+
+.single-output img {
+    padding: 20px;
+}
+
+.footer-about {
+    margin-bottom: 25px;
+}
+
+
+
+section#page-content h4 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+
+
+
+}
+
 
 
 
